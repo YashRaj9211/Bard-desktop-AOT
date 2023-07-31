@@ -1,6 +1,7 @@
 # Unofficial Bard Desktop Application
 
-![Unofficial Bard Logo](./images/bard_logo.png)
+![image](https://github.com/Lakshya0257/Bard-desktop-AOT/assets/114349137/d23d8bc4-7203-470e-b1f9-0ca2df679baf)
+
 
 ## Description
 
@@ -10,26 +11,24 @@ The Unofficial Bard Desktop Application is a productivity tool designed to enhan
 
 - **Always On Top**: The application allows you to keep your desktop on top of all other windows, making it easy to access your favorite tools, documentation, or any other reference materials while coding.
 
-- **Customizable Hotkeys**: You can configure custom hotkeys to toggle the "Always on Top" feature, making it quick and easy to enable or disable as needed.
-
 - **Minimalistic Interface**: The application comes with a clean and intuitive user interface, providing a distraction-free environment for developers to focus on their work.
 
 - **Lightweight and Efficient**: Built with performance in mind, the application is lightweight and doesn't consume excessive system resources, ensuring smooth operation even on low-end machines.
 
-## Screenshots
+## Screenshot
 
-![Screenshot 1](./images/screenshot1.png)
-![Screenshot 2](./images/screenshot2.png)
+![image](https://github.com/Lakshya0257/Bard-desktop-AOT/assets/114349137/7082e8ef-7348-4455-8dba-90dd76a0086d)
+
 
 ## Installation
 
 ### Prerequisites
 
-- Supported Operating Systems: Windows, macOS, Linux
+- Supported Operating Systems: Windows
 
 ### Download
 
-You can download the latest version of the Unofficial Bard Desktop Application from the [Releases](https://github.com/yourusername/unofficial-bard-app/releases) page.
+You can download the latest version of the Unofficial Bard Desktop Application from the release page.
 
 ### Installation Steps
 
@@ -45,13 +44,11 @@ You can download the latest version of the Unofficial Bard Desktop Application f
 
 2. By default, the application will be in "Always on Top" mode. Your desktop will now stay on top of all other windows.
 
-3. To toggle the "Always on Top" feature, use the assigned hotkey (you can configure this in the settings).
-
-4. To exit the application, right-click on the system tray icon (Windows) or menu bar icon (macOS/Linux) and select "Exit."
+3. To exit the application, right-click on the system tray icon (Windows) or menu bar icon (macOS/Linux) and select "Exit."
 
 ## Contributing
 
-We welcome contributions to the Unofficial Bard Desktop Application! If you find any bugs or have suggestions for new features, please open an issue on the [GitHub repository](https://github.com/yourusername/unofficial-bard-app/issues).
+We welcome contributions to the Unofficial Bard Desktop Application! If you find any bugs or have suggestions for new features, please open an issue on the the repo
 
 If you would like to contribute code, fork the repository, create a new branch, commit your changes, and open a pull request. We'll review your changes and merge them if they align with the project's goals.
 
@@ -64,5 +61,3 @@ This project is licensed under the [MIT License](./LICENSE).
 We want to extend our gratitude to the developers and maintainers of the libraries and tools that made this application possible. Your hard work and dedication are greatly appreciated.
 
 ---
-
-Thank you for your interest in the Unofficial Bard Desktop Application! We hope it enhances your productivity as a developer. If you have any questions or feedback, don't hesitate to reach out on the [GitHub repository](https://github.com/yourusername/unofficial-bard-app). Happy coding!
